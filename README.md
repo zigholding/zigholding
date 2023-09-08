@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**zigholding/zigholding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=知止而后定;Zig--er--Holding!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[笔记连接世界。Notes Link Worlds!](https://zigholding.github.io/quartz/)
+
+
+
+<iframe src="https://zigholding.github.io/quartz/" width = "100%" height=500></iframe>
+
+
+
